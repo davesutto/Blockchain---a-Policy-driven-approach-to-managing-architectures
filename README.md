@@ -160,21 +160,20 @@ Facilitate the use of more stringent methods for assessing the likelihood of suc
 
 
 
-Capability                                                                                                                                              Requirement      Score
+Capability  (Requirement,Score)
 
 
 
-Strategic Vision  - completeness, robustness and achievable                                                          10                      5
-Strategic Design – based on current solutions and firm plans                                                         10                      5
-Innovation – Innovations that could support a move to Industry 4                                                   8                      3
-Assurance  & Operability - culture & use of methodologies                                                               8                       3
-
-Technical solution                                                                                                                                     20                    10
-Longevity and Extensibility – Ability to adapt and integrate                                                              10                      5
-Technology Alignment – (e.g. PDBA)                                                                                                      20                      6
-Business Solution                                                                                                                                      20                    11
-Business and Market alignment (e.g. PDBA)                                                                                         20                      6
-Domain Capability                                                                                                                                     15                       5
+Strategic Vision  - completeness, robustness and achievable     (10,5)
+Strategic Design – based on current solutions and firm plans    (10,5)
+Innovation – Innovations that could support a move to Industry 4 (8,3)
+Assurance  & Operability - culture & use of methodologies        (8,3)
+Technical solution                                               (20,10)
+Longevity and Extensibility – Ability to adapt and integrate     (10,5)
+Technology Alignment – (e.g. PDBA)                               (20,6)
+Business Solution                                                (20,11)
+Business and Market alignment (e.g. PDBA)                         (20,6)
+Domain Capability                                                 (15,5)
 
 
 
