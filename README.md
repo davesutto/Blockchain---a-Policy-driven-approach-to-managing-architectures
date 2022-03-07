@@ -94,7 +94,7 @@ In terms of security, the onion analogy works well: As opposed to fire walls whe
 An aspect of security that has always dogged the IT industry is reliability. The issue is that different IT systems or applications can give different results as there is no single view of the Data or single definition (schema). Although reliability is often a trade-off against cost and effort, in some cases such as Transport it can become a serious issue. A single view of the Data or Information could overcome this problem. This is inherent in the structure of a blockchain. 
 The key to determining which aspect of security or performance is key, is ensuring principles and policies align with the business domain and technology domain under consideration. 
 
-# Data Principles and policies
+# Data Principles and Policies
 
 These include:
 	Security  - From Loss, Damage, Modification, Unavailability 
