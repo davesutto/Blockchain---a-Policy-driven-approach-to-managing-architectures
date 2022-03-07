@@ -36,12 +36,19 @@ Where principles are used to support formal strategy development they tend to be
 Key elements of Industry 4 include:
 
 The Gig Economy
+
 Automation
+
 Robotics
+
 IoT
+
 Analytics
+
 Healthcare
+
 Smart Cities
+
 Blockchain
 
 # Society 5
